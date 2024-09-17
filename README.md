@@ -1,2 +1,2 @@
-# Amazon-Frontend-Clone-Project
-Built an E-Commerce Site Using HTML, CSS, and JS. This Project Was a Hands-On Opportunity To Improve Skills In Web Development and E-Commerce Solutions Through Practical Application.
+# Amazon-Clone
+Welcome to my Amazon Clone project repository! This dynamic e-commerce website is built with HTML, CSS, and JavaScript, showcasing a responsive design and seamless user interactions. Dive into the code to explore the intricacies of building a modern online shopping platform. Join me on this coding journey as we replicate the magic of Amazon in every line!
